@@ -14,7 +14,7 @@ Bonus: external joke API (for demo purpose)
 
 ⚙️ Tech Stack
 Python + FastAPI
-MongoDB
+MongoDB(MONGO_URI)
 JWT Authentication
 Pydantic
 bcrypt (password hashing)
